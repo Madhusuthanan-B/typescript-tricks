@@ -19,5 +19,3 @@ const messi: User = {
 // messi.name = 'Lionel Messi';
 // messi.skills = ['Shooting'];
 // messi.skills.push('Heading');
-
-console.log();
