@@ -16,8 +16,8 @@ const messi: User = {
   skills: ['Dribbling', 'Shooting'],
 };
 
-messi.name = 'Lionel Messi';
-messi.skills = ['Shooting'];
-messi.skills.push('Heading');
+// messi.name = 'Lionel Messi';
+// messi.skills = ['Shooting'];
+// messi.skills.push('Heading');
 
 console.log();
